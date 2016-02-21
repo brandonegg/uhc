@@ -1,0 +1,14 @@
+name: SailUHC
+main: net.sail.uhc.UHCCore
+version: 0.1
+author: bman7842
+description: CMliaS OfFiCiAl UHC plugin.
+commands:
+  game:
+    description: Game setting related commands
+  team:
+    description: Team related commands
+  host:
+    description: Host related commands
+  testend:
+    description: Tests ending the game
